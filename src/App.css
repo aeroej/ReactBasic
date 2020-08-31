@@ -1,3 +1,17 @@
+.post{
+  width:600px;
+  padding:30px;
+  margin:auto;
+  border: 2px solid red
+}
+
+
+.myStyle{
+  color : red;
+  font-weight : 800;
+}
+
+
 .App {
   text-align: center;
 }
